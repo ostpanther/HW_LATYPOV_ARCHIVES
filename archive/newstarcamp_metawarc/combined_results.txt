@@ -1,0 +1,42 @@
+=== Metadata Results ===
+=== Analyze Results ===
+mimes                       files        size          share
+------------------------  -------  ----------  -------------
+text/html                    1408   482878922   40.9132
+image/jpeg                    345   281748348   23.8719
+image/png                     100   211741591   17.9404
+application/javascript        103    88853790    7.52837
+video/mp4                       6    64148875    5.43518
+video/quicktime                 4    45968964    3.89484
+application/octet-stream        5     1260996    0.106841
+image/webp                      6     1018069    0.0862586
+text/css                       52      762572    0.0646109
+application/json              235      728250    0.0617029
+application/pdf                 5      541348    0.0458672
+font/woff                       8      250770    0.0212472
+font/woff2                      8      193380    0.0163846
+font/ttf                        2      106177    0.00899613
+image/svg+xml                   1       40359    0.00341952
+image/x-icon                    1        7720    0.000654098
+text/plain                      2        1849    0.000156661
+#total                       2291  1180251980  100
+=== Index Results ===
+CDX file found. Estimated number of WARC records [1;36m2291[0m
+Processed [1;36m250[0m [1m([0m[1;36m10.91[0m%[1m)[0m records
+Processed [1;36m500[0m [1m([0m[1;36m21.82[0m%[1m)[0m records
+Processed [1;36m750[0m [1m([0m[1;36m32.74[0m%[1m)[0m records
+Processed [1;36m1000[0m [1m([0m[1;36m43.65[0m%[1m)[0m records
+Processed [1;36m1250[0m [1m([0m[1;36m54.56[0m%[1m)[0m records
+Processed [1;36m1500[0m [1m([0m[1;36m65.47[0m%[1m)[0m records
+Processed [1;36m1750[0m [1m([0m[1;36m76.39[0m%[1m)[0m records
+Processed [1;36m2000[0m [1m([0m[1;36m87.30[0m%[1m)[0m records
+Processed [1;36m2250[0m [1m([0m[1;36m98.21[0m%[1m)[0m records
+=== Stats Results ===
+=== Export Results ===
+=== List Results ===
+[3m                     URL/file list                      [0m
+┏━━━━━━━━┳━━━━━┳━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━┳━━━━━━━━━┓
+┃[1m [0m[1moffset[0m[1m [0m┃[1m [0m[1murl[0m[1m [0m┃[1m [0m[1mlength[0m[1m [0m┃[1m [0m[1mcontent-type[0m[1m [0m┃[1m [0m[1mext[0m[1m [0m┃[1m [0m[1mwarc_id[0m[1m [0m┃
+┡━━━━━━━━╇━━━━━╇━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━╇━━━━━━━━━┩
+└────────┴─────┴────────┴──────────────┴─────┴─────────┘
+=== Dump Results ===

@@ -1,0 +1,8 @@
+CDX file found. Estimated number of WARC records [1;36m1935[0m
+Processed [1;36m250[0m [1m([0m[1;36m12.92[0m%[1m)[0m records
+Processed [1;36m500[0m [1m([0m[1;36m25.84[0m%[1m)[0m records
+Processed [1;36m750[0m [1m([0m[1;36m38.76[0m%[1m)[0m records
+Processed [1;36m1000[0m [1m([0m[1;36m51.68[0m%[1m)[0m records
+Processed [1;36m1250[0m [1m([0m[1;36m64.60[0m%[1m)[0m records
+Processed [1;36m1500[0m [1m([0m[1;36m77.52[0m%[1m)[0m records
+Processed [1;36m1750[0m [1m([0m[1;36m90.44[0m%[1m)[0m records
